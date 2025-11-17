@@ -1,0 +1,11 @@
+{
+  "name": "aiteam-example-connect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.4.0",
+    "googleapis": "^137.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
